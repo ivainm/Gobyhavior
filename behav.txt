@@ -1,0 +1,227 @@
+area	location	timepoint	date	measurer	waves	sun	rain	temp	st.obs	end.obs	visibility	type	MF_fin	MF_approach	MF_hook	MF_glow	MF_HG	MF_finNR	MF_lead	MF_Lnest	MF_foll	MF_nest	MF_FN	MF_leadNR	M&F_fin	M&F_hook	M&F_glow	M&F_HG	M&F_finNR	M&F_lead	M&F_Lhook	M&F_follow	M&F_nest	M&F_leadNR	MM_fin	MM_fin	MM_retreat	MM_NR	MM_chase	MM_chase	MM_Cretreat	MM_CNR	FM_hook	FM_hookA	FM_hookAF	FM_hookAFL	FM_hookAFLN	FM_hookNR	FM_glow	FM_glowA	FM_glowAF	FM_glowAFL	FM_glowAFLN	FM_glowNR	FM_HG	FM_HGA	FM_HGAF	FM_HGAFL	FM_HGAFLN	FM_HGNR	FF_hook	FF_glow	FF_HG	FF_hook	FF_glow	FF_HG	FF_NR
+Austevoll	Tipatiskaeret	1	08.05.2022	TA	0	N	N	9.5	18:34	18:48	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	1	10	6	0	3	0	0	0	3
+Austevoll	Tipatiskaeret	1	08.05.2022	TA	0	N	N	9.5	19:32	19:45	good	transect	1	0	0	0	1	0	0	1	0	0	1	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	4	1	0	2	0	0	0	3
+Austevoll	Tipatiskaeret	1	08.05.2022	CA	0	N	N	9.5	18:36	18:57	good	transect	3	0	0	0	0	3	3	0	2	0	0	1	2	1	1	0	0	3	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	0
+Austevoll	Tipatiskaeret	1	08.05.2022	CA	0	N	N	9.5	19:33	19:50	good	transect	4	0	1	1	0	2	2	0	2	0	0	0	1	0	0	1	0	2	1	1	0	0	1	0	1	0	0	0	0	0	2	0	0	0	0	2	1	1	0	0	0	0	4	0	1	0	0	2	0	0	0	0	0	0	0
+Austevoll	Lamoya	1	09.05.2022	TA	30	N	N		12:59	13:13	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	2	0	0	0	0	2	1	0	0	0	0	0	1
+Austevoll	Lamoya	1	09.05.2022	TA	30	N	N		13:44	13:56	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	1	0	0	1
+Austevoll	Lamoya	1	09.05.2022	CA	50	Y	N		13:02	13:20	medium	transect	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	2	0	0	2	0	0	1	1
+Austevoll	Lamoya	1	09.05.2022	CA	50	Y	N		13:47	14:00	medium	transect	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	2	0	0	0	0	2	0	0	3	0	0	2	1
+Austevoll	Krabbavika	1	10.05.2022	CA	15	N	Y	8.3	12:05	12:23	good	transect	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	1	0	0	0	2	0	0	1	1
+Austevoll	Krabbavika	1	10.05.2022	CA	15	N	Y	8.3	12:54	13:07	good	transect	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	1	0	0	1	0
+Austevoll	Krabbavika	1	10.05.2022	TA	5	N	Y	8.3	12:00	12:12	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	10	0	0	0	0	10	0	0	1	0	0	0	1
+Austevoll	Krabbavika	1	10.05.2022	TA	5	N	Y	8.3	12:47	12:57	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	9	0	0	0	0	9	0	0	4	0	0	1	3
+Austevoll	Saltkjaerholmane	1	11.05.2022	TA	15	Y	N		13:04	15:18	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	1	0	0	13	2	0	0	1	0	1	0
+Austevoll	Saltkjaerholmane	1	11.05.2022	TA	15	N	N		13:47	13:58	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	19	0	0	0	0	19	2	0	0	0	0	0	2
+Austevoll	Saltkjaerholmane	1	11.05.2022	CA	0	N	N		13:10	13:27	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	4	0	0	1	0	3	0	0	3	0	0	1	2
+Austevoll	Saltkjaerholmane	1	11.05.2022	CA	0	N	Y		13:53	14:07	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	6	0	0	0	0	6	0	0	1	0	0	0	1
+Austevoll	Ternholmen	1	12.05.2022	TA	0	Y	N	8.4	14:23	14:35	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	1	0	0	0	0	1	2	0	0	0	0	2	1	0	2	0	0	0	3
+Austevoll	Ternholmen	1	12.05.2022	TA	0	Y	N	8.4	15:10	15:21	good	transect	2	0	1	0	1	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	8	1	0	1	0	0	0	2
+Austevoll	Ternholmen	1	12.05.2022	CA	0	N	N	8.4	14:17	14:33	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	2	1	0	0	1	0	1	0	4	0	0	3	2
+Austevoll	Ternholmen	1	12.05.2022	CA	0	N	N	8.4	14:53	15:08	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	7	1	1	1	0	2	0	1
+Hitra	Feoya f4-5	1	16.05.2022	TA	15	Y	N	7.5	10:59	11:09	good	transect	2	0	0	0	0	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Feoya f4-5	1	16.05.2022	TA	15	Y	N	7.5	11:33	11:45	good	transect	1	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Feoya f4-5	1	16.05.2022	CA	0	N	N	7.5	10:53	11:05	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Feoya f4-5	1	16.05.2022	CA	0	N	N	7.5	11:29	11:39	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Steinrenningen s-8	1	17.05.2022	CA	0	Y	N	7.5	09:33	09:43	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Steinrenningen s-8	1	17.05.2022	CA	0	Y	N	7.5	10:16	10:28	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 10	1	18.05.2022	CA		N	N	7.7	09:16	09:27	good	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 10	1	18.05.2022	CA		N	N	7.7	09:57	10:08	good	transect	2	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+Hitra	Vegshiftholmane 6	1	19.05.2022	CA	0	N	N	8.3	16:05	16:21	good	transect	1	0	0	0	0	1	2	1	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Vegshiftholmane 6	1	19.05.2022	CA	0	N	N	8.3	16:57	17:10	good	transect	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	1
+Hitra	Teistholmen 13	1	20.05.2022	CA	0	Y	N	9.1	09:40	09:52	good	transect	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Hitra	Teistholmen 13	1	20.05.2022	CA	0	Y	N	9.1	10:15	10:26	good	transect	4	0	0	0	0	4	0	1	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Austevoll	Ternholmen	3	19.07.2022	CA	0	N	N	15.3	09:31	09:45	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	2	0	0	2	0
+Austevoll	Ternholmen	3	19.07.2022	CA	0	N	N	15.3	10:11	10:22	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0
+Austevoll	Lamoya	3	20.07.2022	CA	0	Y	N		10:00	10:07	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Austevoll	Lamoya	3	20.07.2022	CA	0	Y	N		10:30	10:38	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Austevoll	Lamoya	3	20.07.2022	CA	0	Y	N		10:50	11:10	good	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Austevoll	Krabbavika	3	21.07.2022	CA		N	N	15.9	08:31	08:41	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	4	0	0	2	2
+Austevoll	Krabbavika	3	21.07.2022	CA		N	N	15.9	09:05	09:14	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	3	0	0	1	3
+Austevoll	Krabbavika	3	21.07.2022	CA		N	N	15.9	12:17	12:31	medium	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Austevoll	Tipatiskaeret	3	23.07.2022	CA	0	N	N	16.3	10:46	10:57	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	4
+Austevoll	Tipatiskaeret	3	23.07.2022	CA	0	N	N	16.3	11:24	11:32	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	3
+Austevoll	Tipatiskaeret	3	24.07.2022	CA		N	Y	15.1	11:10	11:17		nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	3	0	0	0	0	3	0	0	0	0	0	0	0
+Austevoll	Saltkjaerholmane	3	25.07.2022	CA	0	N	N	14.2	13:51	14:01	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Austevoll	Saltkjaerholmane	3	25.07.2022	CA	0	N	N	14.2	14:28	14:37	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 13	3	05.07.2022	CA	60	N	N	14.3	09:18	09:28	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 13	3	05.07.2022	CA	60	N	N	14.3	10:01	10:08	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 10	3	06.07.2022	CA	80	N	N	13.4	09:15	09:27	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 10	3	06.07.2022	CA	80	N	N	13.4	09:58	10:05	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 10	3	07.07.2022	CA	80	N	N	13.4	09:40	09:47	medium	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Feoya f4-5	3	10.07.2022	CA	20	N	N	12.8	12:32	12:41	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Feoya f4-5	3	10.07.2022	CA	20	N	N	12.8	13:10	13:18	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Steinrenningen s-8	3	11.07.2022	CA	10	N	N	14.1	11:36	11:49	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Steinrenningen s-8	3	11.07.2022	CA	20	N	N	14.1	12:25	12:32	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Feoya f4-5	3	10.07.2022	CA	20	N	N	12.8	13:27	13:36	good	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Steinrenningen s-8	3	11.07.2022	CA	20	N	N	14.1	16:09	16:17	bad	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Vegshiftholmane 6	3	12.07.2022	CA	0	N	Y	14.3	13:07	13:17	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Vegshiftholmane 6	3	12.07.2022	CA	0	N	Y	14.3	13:52	14:03	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Austevoll	Saltkjaerholmane	2	17.06.2022	CA	0	N	N	12.4	17:39	17:52	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	4	1	0	0	0	0	1	0	2	0	0	2	0	0
+Austevoll	Saltkjaerholmane	2	17.06.2022	CA	0	N	N	12.4	18:27	18:38	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	8	5	0	0	0	0	5	1	1	1	0	0	0	3
+Austevoll	Ternholmen	2	18.06.2022	CA	0	Y	N	13.3	08:26	08:44	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	2	0	0	0	1	1	2	7	2	0	5	0	6
+Austevoll	Ternholmen	2	18.06.2022	CA	0	Y	N	13.3	09:07	09:20	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	0	0	0	0	2	2	0	0	0	0	2	5	0	0	0	0	5	0	3	1	0	4	0	0
+Austevoll	Krabbavika	2	19.06.2022	CA		N	Y	12.9	08:44	08:51	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	2	0	0	0	0	2	0	1	0	0	0	0	1
+Austevoll	Krabbavika	2	19.06.2022	CA		N	Y	12.9	09:07	09:15	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	1	0	0	1	0	0	0
+Austevoll	Krabbavika	2	19.06.2022	CA		N	Y	12.9	09:17	09:25	bad	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Austevoll	Lamoya	2	20.06.2022	CA	0	Y	N	13.9	09:24	09:33	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	7	1	2	3	2	1	3	0
+Austevoll	Lamoya	2	20.06.2022	CA	0	Y	N	13.9	10:01	10:09	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	7	2	0	6	0	3
+Austevoll	Lamoya	2	20.06.2022	CA	0	Y	N	13.9	08:58	09:18	good	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Austevoll	Tipatiskaeret	2	21.06.2022	CA	0	N	Y	13.9	10:40	10:53	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	3	0	0	0	0	3	2	0	0	0	0	2	1	1	0	0	1	0	1
+Austevoll	Tipatiskaeret	2	21.06.2022	CA	0	N	Y	13.9	11:19	11:30	medium	transect	1	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	4	0	0	0	0	4	2	1	3	1	2	0	3
+Austevoll	Tipatiskaeret	2	22.06.2022	CA	0	N	N	13.9	10:26	10:50	medium	nest	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Vegshiftholmane 6	2	07.06.2022	CA	10	Y	N	10.1	09:32	09:44	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Vegshiftholmane 6	2	07.06.2022	CA	10	Y	N	10.1	10:19	10:30	good	transect	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Steinrenningen s-8	2	09.06.2022	CA	0	N	N	10	10:18	10:30	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Steinrenningen s-8	2	09.06.2022	CA	0	N	N	10	11:05	11:15	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2
+Hitra	Feoya f4-5	2	10.06.2022	CA	0	N	N	10.2	12:22	12:36	good	transect	6	0	1	0	0	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Feoya f4-5	2	10.06.2022	CA	0	N	N	10.2	13:09	13:19	good	transect	2	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Feoya f4-5	2	10.06.2022	CA	0	N	N	10.2	14:06	14:20	good	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 13	2	11.06.2022	CA		Y	N	11.2	11:04	11:21	good	transect	4	0	0	0	0	4	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 13	2	11.06.2022	CA		Y	N	11.2	12:03	12:14	good	transect	1	0	0	0	0	1	4	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 10	2	12.06.2022	CA	20	N	Y	11.7	13:00	13:15	medium	transect	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 10	2	12.06.2022	CA	20	N	Y	11.7	13:40	13:49	medium	transect	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hitra	Teistholmen 10	2	12.06.2022	CA	20	N	Y	11.7	14:00	14:17	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Store-kvannoya	1	21.05.2022	TA	0	Y	N	7.5	09:40	09:58	good	transect	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Store-kvannoya	1	21.05.2022	TA	0	Y	N	7.5	10:39	10:56	good	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Litj-sorroy	1	22.05.2022	TA	10	N	N	7.4	11:19	10:30	medium	transect	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Litj-sorroy	1	22.05.2022	TA	10	N	N	7.4	10:18	10:30	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Gudmunholmen	1	23.05.2022	TA	0	Y	N	7.5	13:00	13:20	good	transect	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Gudmunholmen	1	23.05.2022	TA	0	Y	N	7.5	14:13	14:31	good	transect	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Kloverholmen	1	24.05.2022	TA	0	N	N	7.9	13:35	13:51	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Kloverholmen	1	24.05.2022	TA	0	N	N	7.9	14:34	14:46	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Tjonnoyskaeret	1	25.05.2022	TA	0	N	N	8	13:59	14:23	medium	transect	3	0	0	0	0	3	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Tjonnoyskaeret	1	25.05.2022	TA	0	N	N	8	15:20	15:41	medium	transect	6	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Varholmen	1	28.05.2022	TA	0		N	9.1	18:33	18:43	good	transect	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Varholmen	1	28.05.2022	TA	0		N	9.1	17:38	17:47	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Hongvaeret	1	30.05.2022	TA	0	Y	N	9.8	19:42	19:53	good	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Hongvaeret	1	30.05.2022	TA	0	Y	N	9.8	20:26	20:37	good	transect	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Mikkelsoya	1	01.06.2022	TA	0	Y	N	9.6	07:45	08:06	good	transect	1	0	0	0	0	1	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Mikkelsoya	1	01.06.2022	TA	0	Y	N	9.6	09:04	09:25	good	transect	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Finnoya	1	02.06.2022	TA	15	Y	N	10.7	11:42	11:59	good	transect	1	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Finnoya	1	02.06.2022	TA	15	Y	N	10.7	12:44	12:59	good	transect	2	0	0	0	0	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Dragan Hammaran	1	03.06.2022	TA	0	N	N	11.3	09:53	10:10	good	transect	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	5	5	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Dragan Hammaran	1	03.06.2022	TA	0	N	N	11.3	10:46	10:56	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Store-kvannoya	2	08.06.2022	TA		Y	N	8.5	14:19	14:39	good	transect	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Store-kvannoya	2	08.06.2022	TA		Y	N	8.5	16:34	16:55	good	transect	2	0	0	0	0	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Litj-sorroy	2	13.06.2022	TA	swell	N	N	10.1	16:35	16:46	good	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Litj-sorroy	2	13.06.2022	TA	swell	N	N	10.1	17:27	17:38	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Gudmunholmen	2	09.06.2022	TA	10	Y	N	9.1	14:19	14:44		transect	1	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Gudmunholmen	2	09.06.2022	TA	10	Y	N	9.1	15:49	16:10		transect	2	0	0	0	0	2	2	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Kloverholmen	2	12.06.2022	TA	25	Y	N	10.5	15:43	16:01	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Kloverholmen	2	12.06.2022	TA	10	Y	N	10.5	17:09	17:25	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Tjonnoyskaeret	2	15.06.2022	TA	0	N	N	9.9	19:09	19:36	medium	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Tjonnoyskaeret	2	15.06.2022	TA	0	N	N	9.9	21:30	21:48	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Blabergsholmen	3	15.07.2022	IM	0	Y	N	17.7	08:29	08:37	medium	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	2
+Kristineberg	Blabergsholmen	3	10.07.2022	IM	0	Y	N	17.5	10:24	10:34	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	6	0	0	6	0	0	0	6
+Kristineberg	Blabergsholmen	3	10.07.2022	IM	0	Y	N	17.5	09:50	10:00	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	4	0	0	4	1	0	1	2
+Kristineberg	Pittleholmen	3	12.07.2022	IM	0	N	N	18.6	12:55	13:02	good	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	0
+Kristineberg	Pittleholmen	3	12.07.2022	IM	0	Y	N	18.6	09:05	09:21	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	5	0	0	0	0	0	0	6	0	0	0	0	6	1	0	1	1	0	1	0
+Kristineberg	Pittleholmen	3	12.07.2022	IM	0	Y	N	18.6	09:53	10:05	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	6	0	0	0	0	0	0	0
+Kristineberg	Rodberget	3	14.07.2022	IM	5	N	N	17.1	11:15	11:25	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+Kristineberg	Rodberget	3	14.07.2022	IM	5	N	N	17.1	11:49	11:58	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Kristineberg	Katten	3	16.07.2022	IM	0	Y	N	17.3	08:34	08:46	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	3	0	1	0	2
+Kristineberg	Katten	3	16.07.2022	IM	0	Y	N	17.3	09:12	09:22	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	4	0	0	1	3
+Kristineberg	Tjallsoholmen	3	11.07.2022	IM	0	N	N	17.2	10:02	10:11	good	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+Kristineberg	Tjallsoholmen	3	11.07.2022	IM	0	N	N	17.2	10:02	10:11	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	2	1	0	0	1
+Kristineberg	Tjallsoholmen	3	11.07.2022	IM	0	N	N	17.2	08:02	08:16	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	13	0	0	0	0	13	0	0	5	0	0	0	5
+Arendal	St Helena	3	19.07.2022	IM	0	Y	N	17.3	12:06	12:13	good	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Arendal	St Helena	3	19.07.2022	IM	0	Y	N	17.3	11:01	11:13	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	0
+Arendal	St Helena	3	19.07.2022	IM	0	Y	N	17.3	10:21	10:32	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	1
+Arendal	Sven Johnsens	3	20.07.2022	IM	0	Y	N	16.6	10:04	10:20	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+Arendal	Sven Johnsens	3	20.07.2022	IM	0	Y	N	16.6	09:17	09:31	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0
+Arendal	Sven Johnsens	3	20.07.2022	IM	0	Y	N	16.6	11:34	11:41	medium	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	1
+Arendal	Langrumpa	3	21.07.2022	IM	0	N	N	17.7	10:43	10:50	good	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0
+Arendal	Langrumpa	3	21.07.2022	IM	0	N	N	17.7	09:12	09:25	good	transect	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	10	0	0	2	0	0	1	1
+Arendal	Langrumpa	3	21.07.2022	IM	0	N	N	17.7	09:53	10:04	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	1	0	1	9	0	0	1	0	0	1	0
+Arendal	Tvillingeholmen	3	22.07.2022	IM	0	N	N	17.9	09:06	09:15	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+Arendal	Tvillingeholmen	3	22.07.2022	IM	0	N	N	17.9	09:42	09:51	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	10	0	0	1	0	0	0	1
+Arendal	Badstuholmen	3	23.07.2022	IM	15	N	N	17.7	09:06	09:17	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0
+Arendal	Badstuholmen	3	23.07.2022	IM	15	N	N	17.7	09:44	09:54	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	4	0	0	0	0	0	0	0
+Ringstad	Varholmen	2	19.06.2022	TA	15	N	N		12:49	13:04	medium	transect	1	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Varholmen	2	19.06.2022	TA	15	N	N		13:54	14:05	medium	transect	1	0	NA	NA	NA	NA	1	0	NA	NA	NA	NA	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Hongvaeret	2	30.06.2022	TA	40	N	N	11.7	09:17	09:26	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Hongvaeret	2	30.06.2022	TA	40	N	N	11.7	09:59	10:10	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Mikkelsoya	2	28.06.2022	TA	0	Y	N		19:43	20:09	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Mikkelsoya	2	28.06.2022	TA	0	Y	N		21:25	21:51	good	transect	1	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Finnoya	2	24.06.2022	TA	5	N	N	10.3	18:40	18:59	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Finnoya	2	24.06.2022	TA	5	N	N	10.3	17:25	17:39	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Dragan Hammaran	2	22.06.2022	TA	5	N	N	11.7	13:42	13:53	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Dragan Hammaran	2	22.06.2022	TA	5	N	N	11.7	14:37	14:50	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Store-kvannoya	3	11.07.2022	TA	5	Y	N	14.3	16:42	17:00	good	transect	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Store-kvannoya	3	11.07.2022	TA	5	Y	N	14.3	17:55	18:12	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Litj-sorroy	3	09.07.2022	TA	0	Y	N	13.6	16:18	16:30	bad	transect		0																																																					
+Helligvaer	Litj-sorroy	3	09.07.2022	TA	0	Y	N	13.6	15:27	15:41	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Gudmunholmen	3	10.07.2022	TA	15	Y	N	13.8	17:16	17:30	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Gudmunholmen	3	10.07.2022	TA	15	Y	N	13.8	18:29	18:47	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Kloverholmen	3	08.07.2022	TA	40	N	N	12.2	15:47	16:02	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Kloverholmen	3	08.07.2022	TA	40	N	N	12.2	17:37	17:50	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Tjonnoyskaeret	3	12.07.2022	TA	10	Y	N	14.1	18:04	18:27	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helligvaer	Tjonnoyskaeret	3	12.07.2022	TA	10	Y	N	14.1	20:16	20:37	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Varholmen	3	17.07.2022	TA	5	N	Y	12.9	10:39	10:50	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Varholmen	3	17.07.2022	TA	5	N	Y	12.9	11:40	11:51	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Hongvaeret	3	20.07.2022	TA	20	Y	N	14	11:43	11:52	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Hongvaeret	3	20.07.2022	TA	20	Y	N	14	12:23	12:34	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Mikkelsoya	3	19.07.2022	TA	0	Y	N	14	13:28	13:49	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Mikkelsoya	3	19.07.2022	TA	0	Y	N	14	14:52	15:15	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Finnoya	3	18.07.2022	TA	5	N	N	13.2	12:42	13:19	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Finnoya	3	18.07.2022	TA	5	N	N	13.2	14:27	14:39	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Dragan Hammaran	3	16.07.2022	TA	25	Y	N	12.9	12:10	12:23	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ringstad	Dragan Hammaran	3	16.07.2022	TA	25	Y	N	12.9	12:53	13:04	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Rodberget	1	01.05.2022	TA	5	Y	N	10	09:58	10:11	good	transect	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Rodberget	1	01.05.2022	TA	5	Y	N	10	10:57	11:08	good	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Rodberget	1	01.05.2022	IM	5	Y	N	10	11:05	11:22	good	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Rodberget	1	01.05.2022	IM	5	Y	N	10	10:05	10:20	good	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Pittleholmen	1	30.04.2022	IM	0	Y	N	8.2	11:31	11:46	good	transect	2	0	0	0	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+Kristineberg	Pittleholmen	1	30.04.2022	IM	0	Y	N	8.2	10:26	10:44	good	transect	2	0	0	0	2	0	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	3	1	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Pittleholmen	1	30.04.2022	TA	0	Y	N	8.2	11:46	11:59	good	transect	1	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Pittleholmen	1	30.04.2022	TA	0	Y	N	8.2	10:30	10:48	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Pittleholmen	1	30.04.2022	CA	0	Y	N	8.2	11:12	11:38	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Katten	1	29.04.2022	IM	0	Y	N	8.8	11:42	11:55	medium	transect	2	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Katten	1	29.04.2022	IM	0	Y	N	8.8	10:53	11:05	medium	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Katten	1	29.04.2022	TA	0	Y	N	8.8	12:07	12:17	good	transect	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Katten	1	29.04.2022	TA	0	Y	N	8.8	10:49	10:59	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Katten	1	29.04.2022	CA	0	Y	N	8.8	10:49	10:59	good	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Tjallsoholmen	1	28.04.2022	IM	0	Y	N	9.1	12:49	13:04	good	transect	3	0	0	0	1	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Tjallsoholmen	1	28.04.2022	IM	0	Y	N	9.1	11:29	11:47	good	transect	2	0	0	0	0	2	0	0	0	0	0	0	1	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Tjallsoholmen	1	28.04.2022	IM	0	Y	N	9.1	11:22	11:43	good	transect	1	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Tjallsoholmen	1	28.04.2022	IM	0	Y	N	9.1	11:22	11:43	good	transect	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Blabergsholmen	1	27.04.2022	IM	0	Y	N	9	12:20	12:39	medium	transect	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Blabergsholmen	1	27.04.2022	IM	0	Y	N	9	13:24	13:35	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Blabergsholmen	1	27.04.2022	TA	0	Y	N	9	12:15	12:24	medium	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Blabergsholmen	1	27.04.2022	TA	0	Y	N	9	13:16	13:25	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arendal	Sven Johnsens	1	06.05.2022	IM	0	Y	N	8.1	10:17	10:31	bad	transect	4	0	2	0	0	2	0	1	0	0	1	0	3	3	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arendal	Sven Johnsens	1	06.05.2022	IM	0	Y	N	8.1	09:23	09:36	bad	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arendal	Langrumpa	1	07.05.2022	IM	0	Y	N	8	10:01	10:14	good	transect	5	0	0	0	0	5	1	0	0	0	0	1	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arendal	Langrumpa	1	07.05.2022	IM	0	Y	N	8	09:09	09:28	good	transect	1	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	2	1	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arendal	Badstuholmen	1	08.05.2022	IM	20	Y	N	8	10:51	11:02	good	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+Arendal	Badstuholmen	1	08.05.2022	IM	20	Y	N	8	09:59	10:14	good	transect	3	0	0	0	2	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arendal	St Helena	1	09.05.2022	IM	0	Y	N		12:24	12:36	good	transect	3	0	0	2	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arendal	St Helena	1	09.05.2022	IM	0	Y	N		11:23	11:39	good	transect	1	0	0	0	0	1	0	1	0	0	0	1	2	0	0	2	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Arendal	Tvillingeholmen	1	10.05.2022	IM	0	N	Y	8.7	11:20	11:32	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	4	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arendal	Tvillingeholmen	1	10.05.2022	IM	0	N	Y	8.7	10:28	10:45	good	transect	2	0	1	0	1	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0
+Kristineberg	Tjallsoholmen	2	04.06.2022	IM	0	Y	N	13.5	09:23	09:42	medium	transect	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0
+Kristineberg	Tjallsoholmen	2	04.06.2022	IM	0	Y	N	13.5	10:24	10:38	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	1	1	0	0	0
+Kristineberg	Pittleholmen	2	06.06.2022	IM	0	Y	N	14.3	09:00	09:23	good	transect	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+Kristineberg	Pittleholmen	2	06.06.2022	IM	0	Y	N	14.3	10:07	10:22	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+Kristineberg	Pittleholmen	2	08.06.2022	IM	20	N	Y		09:17	09:24	good	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kristineberg	Blabergsholmen	2	10.06.2022	IM	30	N	Y		09:00	09:10	medium	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	4	0	0	0	0	0	0	0
+Kristineberg	Blabergsholmen	2	07.06.2022	IM	0	Y	N	15	08:45	08:59	good	transect	1	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	6	0	0	2	0	0	0	1
+Kristineberg	Blabergsholmen	2	07.06.2022	IM	0	Y	N	15	08:02	08:16	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	4	0	0	1	0	0	0	1
+Kristineberg	Katten	2	09.06.2022	IM	0	Y	N	15.1	09:29	09:41	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	2	0	0	6	0	0	1	0	0	1	0
+Kristineberg	Katten	2	09.06.2022	IM	0	Y	N	15.1	08:45	08:59	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0
+Kristineberg	Rodberget	2	11.06.2022	IM	10	Y	N	14.8	08:25	08:41	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	4	0	0	2	0	0	0	2
+Kristineberg	Rodberget	2	11.06.2022	IM	10	Y	N	14.8	09:20	09:31	bad	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	5	0	0	0	0	0	0	0
+Arendal	St Helena	2	16.06.2022	IM	0	Y	N	15.7	10:51	11:04	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	6	0	0	0	0	6	1	0	0	0	0	0	1
+Arendal	St Helena	2	16.06.2022	IM	0	Y	N	15.7	10:03	10:18	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	6	5	0	2	4	0	1	2
+Arendal	St Helena	2	17.06.2022	IM	0	Y	N		09:46	09:50		nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	4	0	0	0	0	4	0	0	0	0	0	0	0
+Arendal	Langrumpa	2	18.06.2022	IM	0	Y	N	15.5	09:25	09:44	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	1	3	0	0	0	0	0	0	0
+Arendal	Langrumpa	2	18.06.2022	IM	0	Y	N	15.5	10:15	10:31	medium	transect	1	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	5	0	0	1	0	1	0	0
+Arendal	Langrumpa	2	21.06.2022	IM	0	Y	N	14.5	09:20	09:26		nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	4	0	0	0	0	4	0	0	0	0	0	0	0
+Arendal	Sven Johnsens	2	19.06.2022	IM	0	Y	N	13.2	09:29	09:43	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0
+Arendal	Sven Johnsens	2	19.06.2022	IM	0	Y	N	13.2	10:21	10:32	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	0
+Arendal	Sven Johnsens	2	22.06.2022	IM	0	Y	N	14.5	09:21	09:31	bad	nest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arendal	Tvillingeholmen	2	20.06.2022	IM	0	Y	N	14	10:23	10:38	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	7	0	0	1	6
+Arendal	Tvillingeholmen	2	20.06.2022	IM	0	Y	N	14	09:30	09:47	medium	transect	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	7	0	0	0	7
+Arendal	Badstuholmen	2	23.06.2022	IM	0	Y	N	14.6	10:40	10:56	good	transect	2	0	0	0	2	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	1	0	2	0	0	0	3
+Arendal	Badstuholmen	2	23.06.2022	IM	0	Y	N	14.6	09:38	09:56	good	transect	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	5	0	0	2	0	0	0	2
