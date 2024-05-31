@@ -1,0 +1,183 @@
+area	location	timepoint	date	measurer	waves	sun	rain	temp	st.obs	end.obs	visibility	replicate	m	f1	f2	f3	fu	u
+Arendal	Sven Johnsens	1	06.05.2022	IM	0	Y	N	8	09:41	09:55	bad	1	26	15	18	17	0	0
+Arendal	Sven Johnsens	1	06.05.2022	IM	0	Y	N	8	09:59	10:14	bad	2	58	10	43	28	0	0
+Arendal	Langrumpa	1	07.05.2022	IM	0	Y	N	8	09:30	09:42	good	1	35	49	44	26	0	0
+Arendal	Langrumpa	1	07.05.2022	IM	0	Y	N	8	09:45	09:57	good	2	30	36	51	35	0	0
+Arendal	Badstuholmen	1	08.05.2022	IM	25	Y	N	8	10:36	10:48	medium	1	35	34	38	26	0	0
+Arendal	Badstuholmen	1	08.05.2022	IM	25	Y	N	8	10:17	10:33	medium	2	46	34	52	22	0	0
+Arendal	St Helena	1	09.05.2022	IM	0	Y	N		11:41	11:57	good	1	43	76	103	47	0	0
+Arendal	St Helena	1	09.05.2022	IM	0	Y	N		12:00	12:22	good	2	50	106	122	58	0	0
+Arendal	Tvillingeholmen	1	10.05.2022	IM	10	N	Y	8.8	11:40	13:20	good	1	106	105	130	54	0	0
+Arendal	St Helena	2	16.06.2022	IM	0	Y	N	15.7	10:20	10:39	medium	1	31	60	125	120	0	0
+Arendal	Langrumpa	2	18.06.2022	IM	0	Y	N	15.5	09:46	10:05	medium	1	47	87	112	128	0	0
+Arendal	Sven Johnsens	2	19.06.2022	IM	0	Y	N	13.2	09:45	10:00	medium	1	7	40	50	32	0	0
+Arendal	Sven Johnsens	2	19.06.2022	IM	0	Y	N	13.2	10:01	10:17	medium	2	6	41	51	49	0	0
+Arendal	Tvillingeholmen	2	20.06.2022	IM	10	Y	N	14	09:50	10:11	medium	1	22	180	155	90	0	0
+Arendal	Badstuholmen	2	23.06.2022	IM	0	Y	N	14.6	10:22	10:38	good	1	27	67	83	70	0	0
+Arendal	Badstuholmen	2	23.06.2022	IM	0	Y	N	14.6	09:59	10:17	good	2	34	68	82	62	0	0
+Arendal	Sven Johnsens	3	20.07.2022	IM	0	Y	N	16.6	09:33	09:48	bad	1	3	29	20	7	0	0
+Arendal	Sven Johnsens	3	20.07.2022	IM	0	Y	N	16.6	09:49	10:02	bad	2	5	23	12	12	0	0
+Arendal	Langrumpa	3	21.07.2022	IM	0	N	N	17.7	09:26	09:40	good	1	33	69	41	18	0	0
+Arendal	Langrumpa	3	21.07.2022	IM	0	N	N	17.7	09:41	09:52	good	2	32	49	26	16	0	0
+Arendal	Badstuholmen	3	23.07.2022	IM	20	N	N	17.7	09:20	09:30	good	1	4	5	7	4	0	0
+Arendal	Badstuholmen	3	23.07.2022	IM	20	N	N	17.7	09:31	09:41	good	2	4	4	3	8	0	0
+Arendal	St Helena	3	19.07.2022	IM	0	Y	N	17.3	10:34	10:46	good	1	8	14	10	6	0	0
+Arendal	St Helena	3	19.07.2022	IM	0	Y	N	17.3	10:48	10:58	good	2	14	13	8	7	0	0
+Arendal	Tvillingeholmen	3	22.07.2022	IM	0	N	N	17.9	09:18	09:27	bad	1	2	23	16	9	0	0
+Arendal	Tvillingeholmen	3	22.07.2022	IM	0	N	N	17.9	09:28	09:40	bad	2	8	29	14	9	0	0
+Helligvaer	Store-kvannoya	1	21.05.2022	TA	0	Y	N	7.5	10:01	10:18	good	1	17	1	3	1	0	0
+Helligvaer	Store-kvannoya	1	21.05.2022	TA	0	Y	N	7.5	10:19	10:37	good	2	21	1	3	2	0	0
+Helligvaer	Litj-sorroy	1	22.05.2022	TA	10	N	N	7.4	10:35	10:57	good	1	30	6	53	30	0	0
+Helligvaer	Litj-sorroy	1	22.05.2022	TA	10	N	N	7.4	10:58	11:14	good	2	30	8	42	27	0	0
+Helligvaer	Gudmunholmen	1	23.05.2022	TA	0	Y	N	7.5	13:22	13:47	good	1	14	5	10	2	0	0
+Helligvaer	Gudmunholmen	1	23.05.2022	TA	0	Y	N	7.5	13:22	13:47	good	2	16	5	10	6	0	0
+Helligvaer	Kloverholmen	1	24.05.2022	TA	0	N	N	7.9	13:53	14:14	good	1	32	21	29	13	0	0
+Helligvaer	Kloverholmen	1	24.05.2022	TA	0	N	N	7.9	14:15	14:32	good	2	26	5	16	5	0	0
+Helligvaer	Tjonnoyskaeret	1	25.05.2022	TA		N	Y	7.9	14:25	14:50	medium	1	33	4	14	11	0	2
+Helligvaer	Tjonnoyskaeret	1	25.05.2022	TA		N	Y	7.9	14:50	15:15	medium	2	42	4	18	15	0	0
+Helligvaer	Store-kvannoya	2	08.06.2022	TA		Y	N	8.5	14:41	15:11	good	1	38	17	33	31	0	0
+Helligvaer	Store-kvannoya	2	08.06.2022	TA		Y	N	8.5	16:01	16:31	good	2	41	16	54	15	0	0
+Helligvaer	Litj-sorroy	2	13.06.2022	TA	swell	N	Y	10.1	16:48	17:07	medium	1	17	4	27	19	0	1
+Helligvaer	Litj-sorroy	2	13.06.2022	TA	swell	N	Y	10.1	16:48	17:07	medium	2	17	14	35	25	0	1
+Helligvaer	Gudmunholmen	2	09.06.2022	TA		Y	N	9.1	14:46	15:19		1	34	27	42	28	0	0
+Helligvaer	Gudmunholmen	2	09.06.2022	TA		Y	N	9.1	14:46	15:19		2	28	25	35	18	0	0
+Helligvaer	Kloverholmen	2	12.06.2022	TA	30	Y	N	10.5	16:04	16:31	bad	1	22	44	56	45	0	0
+Helligvaer	Kloverholmen	2	12.06.2022	TA	30	Y	N	10.5	16:32	17:06	bad	2	45	55	88	53	0	0
+Helligvaer	Tjonnoyskaeret	2	15.06.2022	TA	0	N	N	9.9	19:38	20:23	good	1	59	153	140	54	0	1
+Helligvaer	Tjonnoyskaeret	2	15.06.2022	TA	0	N	N	9.9	20:46	21:27	good	2	46	193	119	42	0	0
+Helligvaer	Store-kvannoya	3	11.07.2022	TA	30	Y	N	14.3	17:07	17:25	good	1	27	90	5	0	0	0
+Helligvaer	Store-kvannoya	3	11.07.2022	TA	30	Y	N	14.3	17:27	17:51	good	2	34	126	6	0	0	0
+Helligvaer	Litj-sorroy	3	09.07.2022	TA	0	Y	N	13.6	15:43	15:53	medium	1	2	0	0	0	0	0
+Helligvaer	Litj-sorroy	3	09.07.2022	TA	0	Y	N	13.6	15:59	16:16	medium	2	2	0	0	0	0	1
+Helligvaer	Gudmunholmen	3	10.07.2022	TA	20	Y	N	13.8	17:33	18:01	good	1	22	67	9	0	0	1
+Helligvaer	Gudmunholmen	3	10.07.2022	TA	20	Y	N	13.8	13:03	18:27	good	2	24	137	9	0	0	0
+Helligvaer	Kloverholmen	3	08.07.2022	TA	40	N	Y	12.2	16:07	16:37	bad	1	54	355	22	2	0	4
+Helligvaer	Kloverholmen	3	08.07.2022	TA	40	N	Y	12.2	16:54	17:33	bad	2	80	621	19	1	0	1
+Helligvaer	Tjonnoyskaeret	3	12.07.2022	TA	10	Y	N	14.1	19:03	19:34	good	1	19	220	10	0	0	1
+Helligvaer	Tjonnoyskaeret	3	12.07.2022	TA	10	Y	N	14.1	19:34	20:12	good	2	27	575	16	2	0	0
+Kristineberg	Rodberget	1	01.05.2022	TA	5	Y	Y	10	10:13	10:34	good	1	35	67	86	8	0	0
+Kristineberg	Rodberget	1	01.05.2022	TA	5	Y	Y	10	10:38	10:55	good	2	22	107	75	8	0	0
+Kristineberg	Rodberget	1	01.05.2022	IM	5	Y	Y	10	10:24	10:40	good	3	38	61	80	11	0	0
+Kristineberg	Rodberget	1	01.05.2022	IM	5	Y	Y	10	10:44	11:01	good	4	39	55	78	6	0	0
+Kristineberg	Pittleholmen	1	30.04.2022	IM	0	Y	N	10.6	10:50	11:06	good	1	39	55	42	3	0	0
+Kristineberg	Pittleholmen	1	30.04.2022	IM	0	Y	N	10.6	11:10	11:28	good	2	35	60	50	6	0	0
+Kristineberg	Pittleholmen	1	30.04.2022	TA	0	Y	N	10.6	11:19	11:43	good	3	32	131	35	1	0	0
+Kristineberg	Pittleholmen	1	30.04.2022	TA	0	Y	N	10.6	10:52	11:17	good	4	33	112	53	1	0	1
+Kristineberg	Katten	1	29.04.2022	IM	0	N	N	8.8	11:07	11:21	medium	1	18	38	42	16	0	0
+Kristineberg	Katten	1	29.04.2022	IM	0	N	N	8.8	11:26	11:38	medium	2	25	48	42	20	0	0
+Kristineberg	Katten	1	29.04.2022	TA	0	N	N	8.8	12:07	12:17	good	3	26	126	53	0	0	0
+Kristineberg	Katten	1	29.04.2022	TA	0	N	N	8.8	11:48	12:04	good	4	25	93	35	1	0	1
+Kristineberg	Tjallsoholmen	1	28.04.2022	IM	0	Y	N	8.9	12:19	12:36	good	1	32	21	52	11	0	0
+Kristineberg	Tjallsoholmen	1	28.04.2022	IM	0	Y	N	8.9	11:54	12:00	good	2	26	25	45	11	0	0
+Kristineberg	Tjallsoholmen	1	28.04.2022	TA	0	Y	N	8.9	12:29	11:46	good	3	37	52	35	9	0	0
+Kristineberg	Tjallsoholmen	1	28.04.2022	TA	0	Y	N	8.9	11:48	12:08	good	4	37	48	48	5	0	0
+Kristineberg	Blabergsholmen	1	27.04.2022	TA	0	N	N	9	13:01	13:13	medium	1	15	62	35	1	0	0
+Kristineberg	Blabergsholmen	1	27.04.2022	TA	0	N	N	9	12:43	12:57	medium	2	19	50	30	1	0	0
+Kristineberg	Blabergsholmen	1	27.04.2022	IM	0	N	N	9	13:08	13:20	medium	3	19	18	31	7	0	2
+Kristineberg	Blabergsholmen	1	27.04.2022	IM	0	N	N	9	12:50	13:02	medium	4	25	27	38	7	0	2
+Kristineberg	Tjallsoholmen	2	04.06.2022	IM	0	Y	N	13.5	09:46	10:03	medium	1	22	21	53	42	0	0
+Kristineberg	Tjallsoholmen	2	04.06.2022	IM	0	Y	N	13.5	10:08	10:21	medium	2	20	13	37	41	0	0
+Kristineberg	Pittleholmen	2	06.06.2022	IM	0	Y	N	14.4	09:48	10:05	good	1	21	9	41	64	0	0
+Kristineberg	Pittleholmen	2	06.06.2022	IM	0	Y	N	14.4	09:27	09:44	good	2	21	17	33	56	0	0
+Kristineberg	Blabergsholmen	2	07.06.2022	IM	0	Y	N	15	08:19	08:30	good	1	12	15	30	33	0	0
+Kristineberg	Blabergsholmen	2	07.06.2022	IM	0	Y	N	15	08:31	08:42	good	2	13	9	21	37	0	0
+Kristineberg	Katten	2	09.06.2022	IM	0	Y	N	15.1	09:01	09:12	bad	1	14	19	41	38	0	0
+Kristineberg	Katten	2	09.06.2022	IM	0	Y	N	15.1	09:15	09:26	bad	2	14	31	49	42	0	0
+Kristineberg	Rodberget	2	11.06.2022	IM	10	Y	N	14.8	08:45	09:04	bad	1	20	15	16	27	0	0
+Kristineberg	Rodberget	2	11.06.2022	IM	10	Y	N	14.8	09:04	09:17	bad	2	13	12	19	31	0	0
+Kristineberg	Tjallsoholmen	3	13.07.2022	IM	0	Y	N	17.2	08:18	08:30	good	1	10	55	45	25	0	0
+Kristineberg	Tjallsoholmen	3	13.07.2022	IM	0	Y	N	17.2	08:18	08:30	good	2	13	49	31	25	0	0
+Kristineberg	Pittleholmen	3	12.07.2022	IM	0	Y	N	18.6	09:23	09:38	medium	1	3	13	9	8	0	0
+Kristineberg	Pittleholmen	3	12.07.2022	IM	0	Y	N	18.6	09:39	09:51	medium	2	4	16	8	13	0	0
+Kristineberg	Blabergsholmen	3	10.07.2022	IM	0	Y	N	17.5	10:03	10:14	medium	1	3	11	15	21	0	0
+Kristineberg	Blabergsholmen	3	10.07.2022	IM	0	Y	N	17.5	10:15	10:23	medium	2	2	11	10	14	0	0
+Kristineberg	Katten	3	16.07.2022	IM	0	Y	N	17.3	08:48	08:59	good	1	7	54	30	12	0	0
+Kristineberg	Katten	3	16.07.2022	IM	0	Y	N	17.3	09:00	09:10	good	2	6	57	18	19	0	0
+Kristineberg	Rodberget	3	14.07.2022	IM	20	N	N	17.1	11:26	11:35	low	1	1	6	4	7	0	0
+Kristineberg	Rodberget	3	14.07.2022	IM	20	N	N	17.1	11:36	11:45	low	2	3	5	4	9	0	0
+Ringstad	Varholmen	1	28.05.2022	TA	0		N	9.1	17:51	18:11	good	1	54	34	46	26	0	0
+Ringstad	Varholmen	1	28.05.2022	TA	0		N	9.1	18:13	18:30	good	2	64	29	32	23	0	0
+Ringstad	Hongvaeret	1	30.05.2022	TA		Y	N	9.8	19:55	20:07	good	1	11	4	6	4	0	0
+Ringstad	Hongvaeret	1	30.05.2022	TA		Y	N	9.8	20:08	20:24	good	2	27	6	7	6	0	8
+Ringstad	Mikkelsoya	1	01.06.2022	TA	0	Y	N	9.6	08:08	08:34	good	1	44	2	6	4	0	0
+Ringstad	Mikkelsoya	1	01.06.2022	TA	0	Y	N	9.6	08:34	09:01	good	2	52	3	7	4	0	0
+Ringstad	Finnoya	1	02.06.2022	TA	30	Y	N	10.7	12:01	12:22	good	1	31	12	34	15	0	41
+Ringstad	Finnoya	1	02.06.2022	TA	30	Y	N	10.7	12:23	12:42	good	2	16	5	23	15	0	25
+Ringstad	Dragan Hammaran	1	03.06.2022	TA	0	N	N	11.3	10:11	10:27	good	1	18	14	18	6	0	3
+Ringstad	Dragan Hammaran	1	03.06.2022	TA	0	N	N	11.3	10:28	10:44	good	2	28	8	26	6	0	1
+Ringstad	Varholmen	2	19.06.2022	TA	20	N	N		13:05	13:29	medium	1	10	14	51	17	0	27
+Ringstad	Varholmen	2	19.06.2022	TA	20	N	N		13:30	13:51	medium	2	16	10	52	27	0	23
+Ringstad	Hongvaeret	2	30.06.2022	TA	40	N	N	11.7	09:29	09:41	medium	1	7	12	4	0	0	10
+Ringstad	Hongvaeret	2	30.06.2022	TA	40	N	N	11.7	09:42	09:56	medium	2	7	27	9	0	0	1
+Ringstad	Mikkelsoya	2	28.06.2022	TA	0	Y	N		20:12	20:47	good	1	22	34	48	11	0	32
+Ringstad	Mikkelsoya	2	28.06.2022	TA	0	Y	N		20:48	21:21	good	2	24	50	48	9	0	36
+Ringstad	Finnoya	2	24.06.2022	TA	5	N	N	10.3	17:42	18:09	medium	1	20	33	41	10	0	32
+Ringstad	Finnoya	2	24.06.2022	TA	5	N	N	10.3	18:10	18:36	medium	2	18	26	42	9	0	50
+Ringstad	Dragan Hammaran	2	22.06.2022	TA	5	N	N	11.7	13:55	14:09	good	1	6	0	1	0	0	0
+Ringstad	Dragan Hammaran	2	22.06.2022	TA	5	N	N	11.7	14:19	14:33	good	2	2	0	0	0	0	0
+Ringstad	Varholmen	3	17.07.2022	TA	20	N	Y	12.9	10:52	11:13	good	1	25	459	19	0	30	0
+Ringstad	Varholmen	3	17.07.2022	TA	20	N	N	12.9	11:16	11:38	good	2	35	433	25	0	0	26
+Ringstad	Hongvaeret	3	20.07.2022	TA	30	Y	N	14	11:54	12:06	good	1	6	19	2	0	0	0
+Ringstad	Hongvaeret	3	20.07.2022	TA	30	Y	N	14	12:07	12:19	good	2	3	23	1	0	0	0
+Ringstad	Mikkelsoya	3	19.07.2022	TA	10	Y	N	14	13:51	14:18	good	1	8	50	3	0	0	0
+Ringstad	Mikkelsoya	3	19.07.2022	TA	10	Y	N	14	14:19	14:48	good	2	8	62	4	1	0	0
+Ringstad	Finnoya	3	18.07.2022	TA	5	N	N	13.2	13:34	13:57	good	1	20	334	12	1	0	1
+Ringstad	Finnoya	3	18.07.2022	TA	5	N	N	13.2	14:00	14:22	good	2	13	287	7	1	0	3
+Ringstad	Dragan Hammaran	3	16.07.2022	TA	30	Y	N	12.9	12:24	12:38	medium	1	6	8	0	0	0	1
+Ringstad	Dragan Hammaran	3	16.07.2022	TA	30	Y	N	12.9	12:38	12:51	medium	2	9	5	2	0	0	0
+Austevoll	Ternholmen	3	14.07.2022	CA	0	N	N	15.3	09:47	10:06	good	1	14	176	39	10	0	2
+Austevoll	Lamoya	3	20.07.2022	CA	0	Y	N		10:09	10:18	good	1	1	12	5	0	0	0
+Austevoll	Lamoya	3	20.07.2022	CA	0	Y	N		10:20	10:28	good	2	0	13	8	0	0	1
+Austevoll	Krabbavika	3	21.07.2022	CA	0	N	N	15.9	08:43	08:51	good	1	3	53	7	2	0	0
+Austevoll	Krabbavika	3	21.07.2022	CA	0	N	N	15.9	08:54	09:03	medium	2	3	49	1	4	0	1
+Austevoll	Tipatiskaeret	3	23.07.2022	CA	0	N	N	16.3	11:00	11:10	good	1	6	54	5	2	0	0
+Austevoll	Tipatiskaeret	3	23.07.2022	CA	0	N	N	16.3	11:11	11:23	good	2	6	59	10	1	0	0
+Austevoll	Saltkjaerholmane	3	25.07.2022	CA	0	N	N	14.2	14:04	14:14	good	1	0	6	1	0	0	0
+Austevoll	Saltkjaerholmane	3	25.07.2022	CA	0	N	N	14.2	14:16	14:25	good	2	0	5	0	0	0	0
+Hitra	Teistholmen 13	3	05.07.2022	CA	60	N	N	14.3	09:34	09:46	bad	1	24	69	39	5	0	10
+Hitra	Teistholmen 13	3	05.07.2022	CA	60	N	N	14.3	09:48	09:59	bad	2	19	92	16	1	0	9
+Hitra	Teistholmen 10	3	06.07.2022	CA	60	N	N	13.4	09:30	09:43	medium	1	36	95	16	0	0	6
+Hitra	Teistholmen 10	3	06.07.2022	CA	60	N	N	13.4	09:46	09:55	medium	2	26	74	7	0	0	9
+Hitra	Feoya f4-5	3	10.07.2022	CA	20	N	N	12.8	12:44	13:03	good	1	50	250	16	1	0	5
+Hitra	Steinrenningen s-8	3	11.07.2022	CA	20	N	N	14.1	11:51	12:08	bad	1	17	73	6	1	0	0
+Hitra	Steinrenningen s-8	3	11.07.2022	CA	20	N	N	14.1	12:10	12:21	bad	2	10	103	7	0	0	2
+Hitra	Vegshiftholmane 6	3	12.07.2022	CA	0	N	N	14.3	13:20	13:30	bad	1	15	73	4	0	0	0
+Hitra	Vegshiftholmane 6	3	12.07.2022	CA	0	N	N	14.3	13:40	13:50	bad	2	15	61	3	0	0	0
+Austevoll	Ternholmen	2	18.06.2022	CA		Y	N	13.3	08:47	09:05	good	1	66	36	150	96	0	1
+Austevoll	Lamoya	2	20.06.2022	CA	0	Y	N	13.9	09:35	09:45	good	1	23	29	66	48	0	0
+Austevoll	Lamoya	2	20.06.2022	CA	0	Y	N	13.9	09:48	09:59	good	2	19	39	66	34	0	1
+Austevoll	Krabbavika	2	19.06.2022	CA	0	N	Y	12.9	08:54	09:05	bad	1	40	41	90	52	0	0
+Austevoll	Tipatiskaeret	2	21.06.2022	CA	0	N	Y	13.9	11:56	11:15	medium	1	62	91	140	42	0	6
+Austevoll	Saltkjaerholmane	2	17.06.2022	CA		N	Y	12.4	17:54	18:07	good	1	19	8	32	33	0	0
+Austevoll	Saltkjaerholmane	2	17.06.2022	CA		N	Y	12.4	18:09	18:25	good	2	19	21	39	26	0	0
+Hitra	Teistholmen 13	2	11.06.2022	CA	0	Y	N	11.2	11:24	11:44	good	1	32	22	51	25	0	1
+Hitra	Teistholmen 13	2	11.06.2022	CA	0	Y	N	11.2	11:24	11:44	good	2	30	23	51	16	0	0
+Hitra	Teistholmen 10	2	12.06.2022	CA	20	N	Y	11.7	13:16	13:28	medium	1	11	22	54	27	0	0
+Hitra	Teistholmen 10	2	12.06.2022	CA	20	N	Y	11.7	13:30	13:40	medium	2	12	28	39	14	0	0
+Hitra	Feoya f4-5	2	10.06.2022	CA	0	Y	N	10.3	12:54	13:07	good	2	21	8	18	7	0	0
+Hitra	Feoya f4-5	2	10.06.2022	CA	0	Y	N	10.3	12:37	12:52	good	1	18	14	29	21	0	0
+Hitra	Steinrenningen s-8	2	09.06.2022	CA		N	N	10	10:31	10:47	good	1	20	37	52	18	0	1
+Hitra	Steinrenningen s-8	2	09.06.2022	CA		N	N	10	10:49	11:02	good	2	13	33	50	18	0	1
+Hitra	Vegshiftholmane 6	2	07.06.2022	CA	10	Y	N	10.1	09:46	10:00	good	1	28	28	57	37	0	1
+Hitra	Vegshiftholmane 6	2	07.06.2022	CA	10	Y	N	10.1	10:02	10:17	good	2	26	35	61	32	0	0
+Austevoll	Tipatiskaeret	1	08.05.2022	CA	0	Y	N	9.5	19:02	19:29	good	1	129	113	168	102	6	0
+Austevoll	Tipatiskaeret	1	08.05.2022	TA	0	Y	N	9.5	18:55	16:26	good	2	128	57	130	80	0	1
+Austevoll	Lamoya	1	09.05.2022	TA	30	Y	N	8.5	13:22	13:42	medium	1	60	31	61	47	0	2
+Austevoll	Lamoya	1	09.05.2022	CA	30	Y	N	8.5	13:25	13:43	medium	2	45	21	91	44	0	4
+Austevoll	Krabbavika	1	10.05.2022	CA	10	N	Y	8.3	12:28	12:49	good	1	110	93	258	150	0	1
+Austevoll	Krabbavika	1	10.05.2022	TA	5	N	Y	8.2	12:14	12:43	good	2	107	112	103	58	0	0
+Austevoll	Saltkjaerholmane	1	11.05.2022	CA	0	N	Y	8.4	13:33	13:50	good	1	39	37	41	44	0	2
+Austevoll	Saltkjaerholmane	1	11.05.2022	TA	0	N	Y	8.4	13:30	13:44	good	2	41	31	48	35	0	3
+Austevoll	Ternholmen	1	12.05.2022	TA	0	Y	N	8.4	14:40	15:08	good	1	76	88	118	51	0	0
+Austevoll	Ternholmen	1	12.05.2022	CA	0	Y	N	8.4	14:35	14:51	good	2	41	26	80	79	0	0
+Hitra	Teistholmen 13	1	20.05.2022	CA	0	Y	N	9.1	09:55	10:12		1	59	15	57	87	0	1
+Hitra	Teistholmen 10	1	18.05.2022	CA	0	Y	N	7.7	09:29	09:40	good	1	11	11	11	16	0	0
+Hitra	Teistholmen 10	1	18.05.2022	CA	0	Y	N	7.7	09:42	09:55	good	2	21	12	25	14	0	0
+Hitra	Feoya f4-5	1	16.05.2022	CA	0	N	N	7.5	11:07	11:29	good	1	5	11	15	1	0	0
+Hitra	Feoya f4-5	1	16.05.2022	TA	0	N	N	7.5	12:59	13:16	good	4	28	14	48	24	0	0
+Hitra	Feoya f4-5	1	16.05.2022	TA	0	N	N	7.5	11:12	11:27	good	3	27	14	27	21	0	1
+Hitra	Feoya f4-5	1	16.05.2022	CA	0	N	N	7.5	13:01	13:17	good	2	7	8	15	9	0	1
+Hitra	Steinrenningen s-8	1	17.05.2022	CA	0	Y	N	7.5	09:47	09:58	good	1	4	5	5	8	0	1
+Hitra	Steinrenningen s-8	1	17.05.2022	CA	0	Y	N	7.5	09:47	09:58	good	2	3	4	5	3	0	0
+Hitra	Vegshiftholmane 6	1	19.05.2022	CA	0	Y	N	8.3	16:43	16:55	good	1	12	6	10	9	0	1
+Hitra	Vegshiftholmane 6	1	19.05.2022	CA	0	Y	N	8.3	16:27	16:40	good	2	18	6	15	9	0	0
